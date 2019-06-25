@@ -7,6 +7,7 @@ Comment/Uncomment different parts in main to test on different algorithms and di
 
 HillClimbingProblem.py
 Solution to problem 3
+Use value/policy iteration methods to find optimal control to help an underpowered car climb the hill
 compile HillClimbingProblem.py to run
 Change the parameters in main to test on different parameters/algorithms
 
@@ -14,5 +15,6 @@ Change the parameters in main to test on different parameters/algorithms
 
 PendulumProblem.py
 Solution to problem 4
+Balance an inverted pendulumn
 compile PendulumProblem.py to run
 Change the parameters in main to test on defferent parameters/algorithms
